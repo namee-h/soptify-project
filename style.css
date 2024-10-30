@@ -48,10 +48,10 @@ body {
     top: -30px;
 }
 .button-box {
-    width: 200px;
+    width: 150px;
     height: 30px;
     background-color: #1ed760;
-    padding: 7px 30px;
+    padding: 7px 15px;
     position: relative;
     top: 20px;
     border-radius: 24px;
@@ -59,6 +59,6 @@ body {
     color: #2941ab;
 }
 .button-box:hover {
-    width: 210px;
+    width: 160px;
     height: 35px;
 }
